@@ -4,13 +4,13 @@ Hello, 😃 My name is Isabel
 Associate Software Engineer
 ---------------------------
 
-I originally enrolled at John Carroll University as a Biology major but switched to computer science two weeks before classes started. That was, thus far, the best decision I've made. While attending JCU, I worked hard and was determined to graduate early. I took on a few 18-credit semesters and summer classes to achieve my goal. I was able to get out early by a whole year. Can you tell that I'm very proud of myself for it? I hope to never stop learning and growing. Being in CS provided me with this opportunity and I couldn't be happier!
+I originally enrolled at John Carroll University as a Biology major but switched to computer science two weeks before classes started. That was, thus far, the best decision I've made. While attending JCU, I worked hard and was determined to graduate early. I took on a few 18-credit semesters and summer classes to achieve my goal. I graduated early by a whole year. Can you tell that I'm very proud of myself for it? I hope to never stop learning and growing. Being in CS provided me with this opportunity and I couldn't be happier!
 
-*   🌍  I'm based in Cleveland
+*   🌍 I'm based in Cleveland
 *   😄 Pronouns: She/ Her/ Hers
 *   🌊 Fun fact: I'm a Certified SCUBA Diver
 *   🖥️  See my portfolio at [github.io](http://isabel-gnagy.github.io/)
-*   🧠  I'm learning JavaScript vs jQuery. Next: TypeScript
+*   🧠  I'm learning JavaScript and jQuery. Next: TypeScript
 
 ### Skills
 <p align="left">
