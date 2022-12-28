@@ -37,8 +37,6 @@ I originally enrolled at John Carroll University as a Biology major but switched
 
 <a href="http://www.github.com/isabel-gnagy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isabel-gnagy&stroke=14b8a6&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/isabel-gnagy"><img src="https://activity-graph.herokuapp.com/graph?username=isabel-gnagy&bg_color=22272e&color=14b8a6&line=ffffff&point=14b8a6&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/isabel-gnagy/isabel-gnagy.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=isabel-gnagy&repo=isabel-gnagy.github.io&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a>
